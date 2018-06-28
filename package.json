@@ -26,5 +26,6 @@
 		"grunt-contrib-concat": "~0.3.0",
 		"grunt-contrib-uglify": "~0.2.2"
 	},
-	"private": true
+	"private": true,
+	"main": "src/plugin.js"
 }
